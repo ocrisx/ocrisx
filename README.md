@@ -1,4 +1,4 @@
-## Opá, Eu me chamo Cristhian, Mas pode me chamar de Cris!!
+## Opá, Muito prazer!!! Eu sou o Cristhian, mas pode me chamar de Cris!!
 <div align="center">
   <a href="https://github.com/ocrisx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocrisx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
